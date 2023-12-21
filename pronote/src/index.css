@@ -1,0 +1,26 @@
+/* .main {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.input,
+.output {
+  width: 48%;
+}
+
+
+.input-text {
+  width: 80px;
+  height: 250px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.output-text {
+  padding: 10px;
+  height: 150px;
+  overflow-y: auto;
+  background-color: #ccc;
+}
+ */
